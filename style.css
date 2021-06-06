@@ -1,0 +1,39 @@
+#d{
+    background-color: darkcyan;
+}
+  
+.custom{
+    padding: 4%;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+.close{
+    cursor: pointer;
+}
+.spas{
+    position: absolute;
+    right: 39.5%;
+}
+.foo{
+    position: relative;
+    bottom: -350px;
+}
+.bol{
+    font-weight: 500;
+    cursor: pointer;
+}
+@media(max-width:800px){
+    .spas{
+        right: 29%;
+    }
+    .ds{
+        position: relative;
+        bottom : -47px;
+    }
+    .cs{
+        position: relative;
+        bottom : -50px;
+    }
+    
+}
