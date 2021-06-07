@@ -16,8 +16,10 @@
     cursor: pointer;
 }
 .foo{
-    position: relative;
-    bottom: -350px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 .bol{
     font-weight: 500;
