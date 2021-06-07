@@ -8,12 +8,12 @@
     color: whitesmoke;
     
 }
+.spas{
+    float: right;
+    margin-left: 2%;
+}
 .close{
     cursor: pointer;
-}
-.spas{
-    position: absolute;
-    right: 39.5%;
 }
 .foo{
     position: relative;
@@ -24,9 +24,6 @@
     cursor: pointer;
 }
 @media(max-width:800px){
-    .spas{
-        right: 29%;
-    }
     .ds{
         position: relative;
         bottom : -47px;
